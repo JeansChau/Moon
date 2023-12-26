@@ -1,0 +1,3 @@
+[submodule "Source/Compute"]
+	path = Source/Compute
+	url = https://github.com/JeansChau/LuisaCompute.git
